@@ -11,3 +11,10 @@ Specialized in Product Discovery, Strategy, and Data-Informed Decision Making.
 4. Stakeholder Management (Global Cross-functional Teams)
 5. MVP / MMF Thinking & Product Discovery
 6. Prioritization Frameworks (RICE, MoSCoW, KANO)
+
+📊 Key Impact:
+1. Improved plant reliability by 10–15% through data-driven optimization (Honeywell)
+2. Led requirements discovery & backlog refinement for digital transformation initiatives
+3. Automated reporting → accelerated Product Discovery & decision-making
+4. Contributed to Digital Marketing strategy & P&L insights
+5. Streamlined CMS workflows improving delivery efficiency
