@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Surumya Sharma
 
-<!--
-**Surumya/Surumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Product Manager | CSPO® | Data-Driven Product Strategist | Ex-Honeywell
 
-Here are some ideas to get you started:
+🚀 Product-focused professional with 5+ years of experience leveraging data-driven insights, Agile execution, and digital transformation to build impactful products.
+Specialized in Product Discovery, Strategy, and Data-Informed Decision Making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Bring
+Product Strategy & Roadmapping
+Agile Execution (Sprint Planning, Backlog, Releases, Scrum)
+Data Analytics (SQL, Power BI, Python, Tableau)
+Stakeholder Management (Global Cross-functional Teams)
+MVP / MMF Thinking & Product Discovery
+Prioritization Frameworks (RICE, MoSCoW, KANO)
